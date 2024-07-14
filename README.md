@@ -1,1 +1,1 @@
-为 API添加了 javadoc
+为核心库 API添加了 javadoc
